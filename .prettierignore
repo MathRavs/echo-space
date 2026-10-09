@@ -1,0 +1,6 @@
+/dist
+/coverage
+/.angular
+/.nx/cache
+/.nx/workspace-data
+package-lock.json

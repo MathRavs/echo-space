@@ -33,6 +33,8 @@ node_modules
 npm-debug.log
 yarn-error.log
 testem.log
+.eslintcache
+.stylelintcache
 /typings
 
 # System Files
